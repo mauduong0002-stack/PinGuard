@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.apk
+*.dex
+
+# Signing keystores (khong day len GitHub)
+*.jks
+*.keystore
+
+# IDE / OS
+.idea/
+.gradle/
+*.iml
+.DS_Store
+Thumbs.db
